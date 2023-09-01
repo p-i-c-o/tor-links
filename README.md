@@ -13,7 +13,12 @@ Don't be a dick, use Tor for good purposes. Nobody wants to hear you whining abo
 
 ## HACKING
 - Defcon `http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/`
+- InfoCon `http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion/`
 
 
 ## OSINT
 - Fuck Facebook `http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion/`
+
+## RESOURCES
+- Imperial Library `http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/`
+- Comic Book Library `http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/`
