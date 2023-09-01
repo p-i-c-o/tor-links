@@ -1,6 +1,6 @@
 # tor-links
 ## DISCLAIMER
-Don't be a dick, use Tor for legal purposes. Nobody wants your shitty requests for leaked passwords on a forum...
+Don't be a dick, use Tor for good purposes. Nobody wants to hear you whining about being part of anonymous...
 
 
 Good starting point: Onion Links
