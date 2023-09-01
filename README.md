@@ -1,7 +1,6 @@
 # tor-links
 ## DISCLAIMER
-
-Don't be a dick, use Tor for good purposes. Nobody wants to hear you whining about how you are a part of anonymous...
+<p>Don't be a dick, use Tor for good purposes. Nobody wants to hear you whining about how you are a part of anonymous...</p>
 ---
 
 ## ONION LINK WIKIS
