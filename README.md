@@ -1,4 +1,6 @@
 # tor-links
+## DISCLAIMER
+Don't be a dick, use Tor for legal purposes. Nobody wants your shitty requests for leaked passwords on a forum...
 
 
 Good starting point: Onion Links
@@ -8,3 +10,9 @@ Good starting point: Onion Links
 - Defcon `http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/`
 - Pug Links `http://qrtitjevs5nxq6jvrnrjyz5dasi3nbzx24mzmfxnuk2dnzhpphcmgoyd.onion/`
 - 
+
+
+## NEWS
+- ProPublica `http://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/`
+- DarkNetLive `http://darknetlidvrsli6iso7my54rjayjursyw637aypb6qambkoepmyq2yd.onion/`
+
